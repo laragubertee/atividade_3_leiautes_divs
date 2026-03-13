@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #bb88f1;
+}
+
+.fundo{
+    width: 660px;
+    margin: 0 auto;
+    background-color:rgb(116, 34, 224);
+
+}
+
+.flex{
+    display: flex;
+}
+
+.lilás{
+    background-color: #d4aefc;
+    padding: 80px;
+    margin: 10px;
+}
